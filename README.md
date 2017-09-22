@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample application of a RESTful MVC that I
 
-Things you may want to cover:
+created without using any Rails generators other than the
 
-* Ruby version
+migration generation. It was listed as a Coding Challenge
 
-* System dependencies
+@ codequizzes.com and I wanted to give it a shot. Fun
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+project!
