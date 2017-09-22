@@ -1,0 +1,9 @@
+<h1>This Is for Posts!</h1>
+<ol>
+  <% @posts.each do |post| %>
+    <li><%= post.body %></li>
+  <% end %>
+</ol>
+<body>
+  <%= link_to 'New Post', new_post_path(@post) %>
+</body>
